@@ -4,9 +4,5 @@
 */
 public class AccountDescriptionUpdate {
 
-    public static void updateDescription(List<Account> accounts) {
-        for (Account a : accounts) {
-            a.Description = a.Name;
-        }
-    }
+   
 }

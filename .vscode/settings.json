@@ -6,5 +6,5 @@
   },
   "codeBuilder.showWelcomePage": false,
   "salesforce.einsteinForDevelopers.enable": true,
-  "salesforce.einsteinForDevelopers.enableAutocompletions": false
+  "salesforce.einsteinForDevelopers.enableAutocompletions": true
 }
